@@ -5,6 +5,9 @@ import services.ServiceA;
 
 public class RunTwo extends BaseTestForAnnotationService {
     /**Реализация с аннотацией в классе сервисе**/
+    /**
+     * Проверка
+     */
 
     public RunTwo() {
         super(ServiceA.class);
